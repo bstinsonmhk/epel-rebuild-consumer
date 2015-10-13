@@ -1,0 +1,9 @@
+*.pyc
+*.swp
+ez_setup
+*.db*
+data
+build
+dist
+*.egg*
+*.log
